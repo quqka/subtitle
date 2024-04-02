@@ -1,0 +1,6 @@
+[att]
+key = 'xxxxxxxxxxxxxxxxxxxx'
+[translator]
+api = 'api.baidu'
+appid = 'xxxxxxxxxxx'
+appkey = 'xxxxxxxxxxxxx'
